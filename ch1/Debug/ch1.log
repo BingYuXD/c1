@@ -1,0 +1,14 @@
+﻿  main.c
+  hw4.c
+c:\users\user\desktop\c\vs2013\c\ch1\hw4.c(15): warning C4098: 'hw4' : 'void' 函式正在傳回值
+  hw3.c
+c:\users\user\desktop\c\vs2013\c\ch1\hw3.c(15): warning C4098: 'hw3' : 'void' 函式正在傳回值
+  hw2.c
+c:\users\user\desktop\c\vs2013\c\ch1\hw2.c(9): warning C4098: 'hw2' : 'void' 函式正在傳回值
+  hw1.c
+c:\users\user\desktop\c\vs2013\c\ch1\hw1.c(8): warning C4098: 'hw1' : 'void' 函式正在傳回值
+  ex2.c
+  ex1.c
+c:\users\user\desktop\c\vs2013\c\ch1\ex1.c(11): warning C4098: 'ex1' : 'void' 函式正在傳回值
+  正在產生程式碼...
+  ch1.vcxproj -> C:\Users\user\Desktop\C\VS2013\c\Debug\ch1.exe
